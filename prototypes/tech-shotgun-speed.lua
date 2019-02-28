@@ -18,7 +18,7 @@
       count = 100,
       ingredients =
       {
-        {"Automation-science-pack", 1}
+        {"automation-science-pack", 1}
       },
       time = 30
     },
@@ -44,7 +44,7 @@
       count = 250,
       ingredients =
       {
-        {"Automation-science-pack", 1}
+        {"automation-science-pack", 1}
       },
       time = 30
     },
@@ -70,8 +70,8 @@
       count = 200,
       ingredients =
       {
-        {"Automation-science-pack", 1},
-        {"Logistic-science-pack", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
       },
       time = 30
     },
@@ -97,8 +97,8 @@
       count = 500,
       ingredients =
       {
-        {"Automation-science-pack", 1},
-        {"Logistic-science-pack", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
       },
       time = 30
     },
@@ -124,8 +124,8 @@
       count = 300,
       ingredients =
       {
-        {"Automation-science-pack", 1},
-        {"Logistic-science-pack", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
         {"military-science-pack", 1},
       },
       time = 30
@@ -152,8 +152,8 @@
       count = 600,
       ingredients =
       {
-        {"Automation-science-pack", 1},
-        {"Logistic-science-pack", 1},
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
         {"military-science-pack", 1},
       },
       time = 30

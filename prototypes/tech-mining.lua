@@ -16,7 +16,7 @@ unit =
 	count = 50,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
+		{"automation-science-pack", 1},
 	},
 	time = 15
 	},
@@ -40,7 +40,7 @@ unit =
 	count = 100,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
+		{"automation-science-pack", 1},
 	},
 	time = 15
 	},
@@ -64,7 +64,7 @@ unit =
 	count = 250,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
+		{"automation-science-pack", 1},
 	},
 	time = 15
 	},
@@ -88,7 +88,7 @@ unit =
 	count = 500,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
+		{"automation-science-pack", 1},
 	},
 	time = 15
 	},
@@ -113,7 +113,7 @@ unit =
 	count = 750,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},	
+		{"automation-science-pack", 1},	
 	},
 	time = 15
 	},
@@ -137,7 +137,7 @@ unit =
 	count = 800,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},	
+		{"automation-science-pack", 1},	
 	},
 	time = 15
 	},
@@ -161,7 +161,7 @@ unit =
 	count = 900,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},	
+		{"automation-science-pack", 1},	
 	},
 	time = 15
 	},
@@ -185,7 +185,7 @@ unit =
 	count = 1000,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},	
+		{"automation-science-pack", 1},	
 	},
 	time = 15
 	},
@@ -210,8 +210,8 @@ unit =
 	count = 100,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},	
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},	
 	},
 	time = 30
 	},
@@ -235,8 +235,8 @@ unit =
 	count = 200,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
 	},
 	time = 30
 	},
@@ -260,8 +260,8 @@ unit =
 	count = 400,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},	
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},	
 	},
 	time = 30
 	},
@@ -285,8 +285,8 @@ unit =
 	count = 750,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
 	},
 	time = 30
 	},
@@ -311,8 +311,8 @@ unit =
 	count = 800,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},	
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},	
 	},
 	time = 30
 	},
@@ -336,8 +336,8 @@ unit =
 	count = 950,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},			
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},			
 	},
 	time = 30
 	},
@@ -361,8 +361,8 @@ unit =
 	count = 1000,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},		
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},		
 	},
 	time = 30
 	},
@@ -386,8 +386,8 @@ unit =
 	count = 1250,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},		
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},		
 	},
 	time = 30
 	},
@@ -412,9 +412,9 @@ unit =
 	count = 300,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
-		{"Chemical-science-pack", 1},		
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
+		{"chemical-science-pack", 1},		
 	},
 	time = 45
 	},
@@ -438,9 +438,9 @@ unit =
 	count = 500,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
-		{"Chemical-science-pack", 1},			
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
+		{"chemical-science-pack", 1},			
 	},
 	time = 45
 	},
@@ -464,9 +464,9 @@ unit =
 	count = 1000,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
-		{"Chemical-science-pack", 1},			
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
+		{"chemical-science-pack", 1},			
 	},
 	time = 45
 	},
@@ -490,9 +490,9 @@ unit =
 	count = 1500,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},
-		{"Chemical-science-pack", 1},		
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},
+		{"chemical-science-pack", 1},		
 	},
 	time = 45
 	},

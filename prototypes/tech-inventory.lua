@@ -16,7 +16,7 @@ unit =
 	count = 700,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
+		{"automation-science-pack", 1},
 	},
 	time = 15
 	},
@@ -41,7 +41,7 @@ unit =
 	count = 1000,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},	
+		{"automation-science-pack", 1},	
 	},
 	time = 15
 	},
@@ -66,8 +66,8 @@ unit =
 	count = 750,
 	ingredients =
 	{
-		{"Automation-science-pack", 1},
-		{"Logistic-science-pack", 1},			
+		{"automation-science-pack", 1},
+		{"logistic-science-pack", 1},			
 	},
 	time = 30
 	},
